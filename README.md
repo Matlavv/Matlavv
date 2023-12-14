@@ -1,4 +1,4 @@
 - 🏴‍☠️ Hi everyone, I’m @Matlavv
-- 👀 I’m interested in frontend and One Piece ! (I hide a One Piece easter egg in every project I do)
+- 👀 NextJS / React-Native / React / Firebase 
 - 🌱 I’m currently learning NextJS 😲
 - 📫 Contact by my mail : mathis.laversin92@gmail.com
