@@ -1,4 +1,4 @@
 - 🏴‍☠️ Hi everyone, I’m @Matlavv
-- 👀 NextJS / React-Native / React / Firebase 
-- 🌱 I’m currently learning NextJS 😲
+- 👀 NextJS / React-Native / Docker  
+- 🌱 I’m currently learning Kubernetes 😲
 - 📫 Contact by my mail : mathis.laversin92@gmail.com
